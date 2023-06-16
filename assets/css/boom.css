@@ -1,0 +1,355 @@
+.carrerBOX {
+    padding: 100px 0;
+  }
+  .carrerBOX .carrerBOX-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .carrerBOX .carrerBOX-content h2 {
+    font-size: 35px;
+    font-weight: 600;
+  }
+  .carrerBOX .carrerBOX-content h2 span {
+    color: #9a1a18;
+  }
+  .carrerBOX .carrerBOX-content p {
+    font-size: 18px;
+    color: #757575;
+  }
+  .carrerBOX .carrerBOX-img {
+    display: flex;
+    justify-content: center;
+  }
+  .container.openPositions p {
+    color: #fff;
+    text-align: left;
+    margin-top: 20px;
+}
+  
+  .openPositions {
+    padding: 100px 0;
+  }
+  .openPositions h2 {
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+  }
+  .openPositions .nav-link {
+    color: white;
+  }
+  .openPositions .openPositions-tab {
+    background: unset !important;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+  .openPositions .nav-pills .nav-link.active,
+  .openPositions .nav-pills .show > .nav-link {
+    background: #9a1a18;
+  }
+  
+  .job {
+    display: flex;
+    padding: 25px;
+    background: #eee;
+    border-radius: 9px;
+    margin: 17px 0;
+  }
+  .job h3 {
+    margin-bottom: 19px;
+    font-size: 22px;
+  }
+  .job .badge {
+    background: #3e3e3e;
+    color: white;
+    font-weight: 300;
+    padding: 11px 11px;
+    line-height: 0;
+  }
+  .job .mLeft {
+    margin-left: 5px;
+  }
+  .job .job-box {
+    display: flex;
+    align-items: center;
+    border-radius: 9px;
+  }
+  .job .job-box .readMore {
+    color: #9a1a18;
+  }
+  .job .job-box .apply-contianer {
+    display: flex;
+    margin-left: 33px;
+  }
+  .job .job-box .apply-contianer .applyNOW {
+    background: #9a1a18;
+    border: none;
+    color: white;
+    padding: 8px 8px;
+    width: 116px;
+  }
+  .job .job-box .apply-contianer .applyNOW:hover {
+    transform: scale(1.1);
+    transition: 500ms;
+  }
+  
+  .moreJOBs {
+    display: flex;
+    justify-content: center;
+  }
+  .moreJOBs button {
+    background: #9a1a18;
+    border: none;
+    color: white;
+    padding: 8px 19px;
+  }
+  
+  .postitionBackground {
+    background: #3e3e3e;
+  }
+  
+  .whyCareer {
+    padding: 100px 0;
+  }
+  .whyCareer h2 {
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+  }
+  .whyCareer h2 span {
+    color: #9a1a18;
+  }
+  .whyCareer p {
+    text-align: center;
+  }
+  .whyCareer .hj {
+    margin-top: 24px;
+  }
+  .whyCareer .hj .card {
+    border: none;
+    display: flex;
+    flex-direction: row;
+    margin: 32px 0px;
+  }
+  .whyCareer .hj .card img {
+    width: 70px;
+    height: 70px;
+}
+  .whyCareer .hj .card .card-body {
+    padding: 5px 27px;
+  }
+  .whyCareer .hj .card .card-body .card-text {
+    text-align: start;
+  }
+  
+  .otherHeading {
+    margin-top: 20px;
+  }
+  
+  .boom-points li {
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 400;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 6px;
+    margin-top: 18px;
+    color: black;
+  }
+  
+  .right li {
+    margin-left: 26px;
+  }
+  
+  .advantages {
+    background: #3e3e3e;
+  }
+  .advantages .subSERvice-advantages {
+    padding: 100px 0;
+  }
+  .advantages .subSERvice-advantages h2 {
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+  }
+  .advantages .subSERvice-advantages .advantagesRow {
+    margin-top: 32px;
+  }
+  .advantages .subSERvice-advantages .advantagesRow .subeservicebox {
+    text-align: start;
+    background: #eee;
+    padding: 20px;
+    border-radius: 9px;
+  }
+  
+  .subBenefits {
+    padding: 100px 0;
+  }
+  .subBenefits div#pills-profile {
+    background: #eee;
+    border-radius: 4px;
+    padding: 25px;
+  }
+  .subBenefits div#pills-home {
+    background: #eee;
+    border-radius: 4px;
+    padding: 25px;
+  }
+  .subBenefits .subBenefitsNAv {
+    background: unset;
+    flex-wrap: unset;
+    justify-content: center;
+  }
+  .subBenefits .subBenefitsNAv li {
+    border: 1px solid #9a1a18;
+    margin: 0 8px;
+    width: 120px;
+    border-radius: 4px;
+    text-align: center;
+  }
+  .subBenefits .subBenefitsNAv .nav-link {
+    color: black;
+  }
+  .subBenefits .nav-pills .nav-link.active,
+  .subBenefits .nav-pills .show > .nav-link {
+    background-color: #9a1a18 !important;
+    border-radius: 2px;
+    color: white;
+  }
+  .subBenefits .tab-content {
+    margin-top: 20px;
+  }
+  .subBenefits .tab-content .accordion-button:not(.collapsed) {
+    color: white;
+    background-color: #9a1a18;
+  }
+  .subBenefits .accordion-button:focus {
+    border-color: #9a1a18;
+  }
+  
+  .boomlist li {
+    margin: 22px 0;
+  }
+  
+  .zoo-box {
+    background: white;
+    padding: 32px;
+    margin: 12px;
+    border-radius: 2px;
+    height: 182px;
+    display: flex;
+    margin-top: -1px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .zoo-box div {
+    justify-content: center;
+    font-size: 28px;
+    color: #9a1a18;
+  }
+  
+  .zoo-box p {
+    text-align: center;
+    font-size: 17px;
+    font-family: "poppins";
+    color: black;
+    font-weight: 400;
+}
+  
+  .form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #aa080887;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(133 33 33 / 25%);
+  }
+  
+  /* For Mobile & tablets */
+  
+  @media screen and (max-width: 1000px) {
+    /* CONTACT PAGE  */
+  
+    .page-title-area {
+      height: unset;
+    }
+    .page-title-area:before {
+      background-color: unset;
+    }
+    p.inner-banner-para {
+      width: 89%;
+      margin: 0 auto;
+    }
+    .page-title-area .title-content {
+      margin-top: 50px;
+    }
+    .item--meta {
+      margin: 17px;
+      padding: 12px;
+    }
+    .zoo-box {
+      height: 156px;
+    }
+    .zoo-box p {
+      margin-bottom: 0px;
+    }
+  
+    /* CARERR PAGE  */
+    .carrerBOX .carrerBOX-content h2 {
+      text-align: center;
+      padding:0 24px;
+      font-size: 28px;
+    }
+    .carrerBOX .carrerBOX-content p {
+      text-align: center;
+      font-size: 15px;
+      padding: 0 25px;
+  }
+    .carrerBOX .carrerBOX-img img {
+      width: 71%;
+      margin-top: 28px;
+      margin-bottom: 35px;
+    }
+    .carrerBOX .row {
+      flex-direction: column-reverse;
+    }
+    .openPositions {
+      padding: 55px 0;
+    }
+    .openPositions h2 {
+      font-size: 28px;
+    }
+    .openPositions .openPositions-tab {
+      padding: 1px;
+    }
+    .job {
+      flex-direction: column;
+      display: flex;
+      padding: 16px;
+      background: #eee;
+      border-radius: 9px;
+      margin: 17px 15px;
+    }
+    .job .job-box {
+      flex-direction: column;
+    }
+    .job .job-box .apply-contianer {
+      margin-left: 0px;
+      margin-right: auto;
+      display: unset;
+    }
+  
+    .whyCareer {
+      padding: 55px 0;
+  }
+  .whyCareer h2{
+    font-size: 28px;
+  }
+  }
+  
+
+
+
+
